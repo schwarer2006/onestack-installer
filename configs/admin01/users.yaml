@@ -1,0 +1,4 @@
+users:
+  - name: erik
+    groups: [sudo, admins]
+    shell: /bin/bash

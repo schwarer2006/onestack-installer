@@ -1,0 +1,4 @@
+network:
+  interface: enp0s8
+  address: 10.0.0.10
+  gateway: 10.0.0.1
